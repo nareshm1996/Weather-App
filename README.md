@@ -2,12 +2,12 @@ Hi There,
 
 Thanks for looking into my project. This App shows IP + Weather + User Location(Map)
 
-Framework:
+Framework:<br>
 Flask
 
-Module:
+Module:<br>
 Folium(For Maps)
 
-API Services:
-https://ipinfo.io/
+API Services:<br>
+https://ipinfo.io/ <br>
 http://api.openweathermap.org
