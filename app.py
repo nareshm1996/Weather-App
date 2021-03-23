@@ -4,7 +4,7 @@ import json, folium
 
 app = Flask(__name__)
 
-weather_api_key = 'f797d0710db4ddfb926fdc08cb666a58'
+weather_api_key = '<Open Weather Map API Key>'
 ipinfo = get('https://ipinfo.io/').text
 
 data = json.loads(ipinfo)
